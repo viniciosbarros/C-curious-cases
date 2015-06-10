@@ -1,7 +1,7 @@
 /*
 
 	Vinicios Barros
-vinicios.barros@ieee.org
+vinicios.ec@gmail.com
 		2013
 
 Esse código não executa nada realmente útil e
